@@ -1,8 +1,25 @@
-body{
-
-background-color: blanchedalmond;
-
+body {
+  background-color: blanchedalmond;
 }
 
+button[type="submit"] {
+  height: 50px;
+  width: 50px;
+}
+#taskInput {
+  height:fit-content;
+  width: fit-content;
+  color: chocolate;
+  background-color:aqua;
+
+}
+.Container{
+
+height: 100px;
+width: 100px;
+background-color: bisque;
 
 
+
+
+}
